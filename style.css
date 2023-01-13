@@ -1,0 +1,30 @@
+#backg { background-color:bisque;
+text-align: center;
+
+}
+
+#container{
+    margin-top: 40px;
+    font-size: large;
+}
+
+#nav{
+   
+    text-align: center;
+  
+    margin-top: 40px
+}
+
+#menu{
+ word-spacing: 20px;
+
+}
+
+
+
+.liste{
+    position: relative;
+    
+    padding-left: 0
+
+  }
